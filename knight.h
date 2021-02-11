@@ -1,0 +1,6 @@
+#ifndef KNIGHT_H_INCLUDED
+#define KNIGHT_H_INCLUDED
+
+
+
+#endif // KNIGHT_H_INCLUDED

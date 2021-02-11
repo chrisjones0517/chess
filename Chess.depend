@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1592196517 source:c:\users\chris\desktop\development\chess\bishop.cpp
+	<string>
+	<iostream>
+	"piece.h"
+
+1591546084 source:c:\users\chris\desktop\development\chess\black.cpp
+
+1592257696 source:c:\users\chris\desktop\development\chess\king.cpp
+	<string>
+	<iostream>
+	"piece.h"
+	"board.h"
+
+1592196535 source:c:\users\chris\desktop\development\chess\knight.cpp
+	<string>
+	<iostream>
+	"piece.h"
+
+1592196550 source:c:\users\chris\desktop\development\chess\pawn.cpp
+	<string>
+	<iostream>
+	"piece.h"
+
+1592196487 source:c:\users\chris\desktop\development\chess\queen.cpp
+	<string>
+	<iostream>
+	"piece.h"
+
+1592196502 source:c:\users\chris\desktop\development\chess\rook.cpp
+	<string>
+	<iostream>
+	"piece.h"
+
+1592187484 source:c:\users\chris\desktop\development\chess\square.cpp
+	<string>
+	<iostream>
+
+1592258694 source:c:\users\chris\desktop\development\chess\piece.cpp
+	<string>
+	<iostream>
+
+1591410498 source:c:\users\chris\desktop\development\chess\transpositiontable.cpp
+
+1592258040 source:c:\users\chris\desktop\development\chess\main.cpp
+	<iostream>
+	"player.h"
+	"board.h"
+
+1592258694 c:\users\chris\desktop\development\chess\piece.cpp
+	<string>
+	<iostream>
+
+1592188389 source:c:\users\chris\desktop\development\chess\board.cpp
+	<iostream>
+	"square.h"
+
+1591550547 source:c:\users\chris\desktop\development\chess\white.cpp
+	"piece.cpp"
+
+1592187484 c:\users\chris\desktop\development\chess\square.cpp
+	<string>
+	<iostream>
+
+1592188389 c:\users\chris\desktop\development\chess\board.cpp
+	<iostream>
+	"square.h"
+
+1591549830 c:\users\chris\desktop\development\chess\white.cpp
+	"piece.cpp"
+	"board.cpp"
+
+1591546084 c:\users\chris\desktop\development\chess\black.cpp
+
+1592258122 source:c:\users\chris\desktop\development\chess\player.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	"piece.h"
+	"board.h"
+	"king.h"
+	"queen.h"
+	"rook.h"
+	"knight.h"
+	"bishop.h"
+
+1592258122 c:\users\chris\desktop\development\chess\player.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	"piece.h"
+	"board.h"
+	"king.h"
+	"queen.h"
+	"rook.h"
+	"knight.h"
+	"bishop.h"
+
+1591558380 source:c:\users\chris\desktop\development\chess\test1.cpp
+	<iostream>
+
+1591558380 c:\users\chris\desktop\development\chess\test1.cpp
+	<iostream>
+
+1591559022 c:\users\chris\desktop\development\chess\header.h
+	"test1.cpp"
+	"board.cpp"
+	"player.cpp"
+	"square.cpp"
+	"piece.cpp"
+
+1591559742 c:\users\chris\desktop\development\chess\square.h
+	"square.cpp"
+
+1591560085 c:\users\chris\desktop\development\chess\player.h
+	"player.cpp"
+
+1591560179 c:\users\chris\desktop\development\chess\piece.h
+	"piece.cpp"
+
+1591559914 c:\users\chris\desktop\development\chess\board.h
+	"board.cpp"
+
+1592239994 c:\users\chris\desktop\development\chess\king.h
+	"king.cpp"
+
+1592257696 c:\users\chris\desktop\development\chess\king.cpp
+	<string>
+	<iostream>
+	"piece.h"
+	"board.h"
+
+1592196758 c:\users\chris\desktop\development\chess\queen.h
+
+1592196759 c:\users\chris\desktop\development\chess\rook.h
+
+1592196760 c:\users\chris\desktop\development\chess\knight.h
+
+1592196762 c:\users\chris\desktop\development\chess\bishop.h
+

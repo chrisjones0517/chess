@@ -1,0 +1,6 @@
+#ifndef QUEEN_H_INCLUDED
+#define QUEEN_H_INCLUDED
+
+
+
+#endif // QUEEN_H_INCLUDED
